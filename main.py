@@ -1,9 +1,9 @@
 import requests
 import random
 import os
-import time
 from colorama import Fore
 from pystyle import *
+
 def check():
   os.system('cls')
   print(Colorate.Horizontal(Colors.blue_to_purple, """
@@ -44,7 +44,7 @@ def check():
       print(Fore.RESET + Fore.GREEN + f"Available: {invite}")
       with open("available.txt", "a") as f:
         f.write("discord.gg/" + invite + "\n")
-      time.sleep(1111.1)
+
       
     if r.status_code == 200:
       print(Fore.RESET + Fore.RED + f"Taken: {invite}") 
