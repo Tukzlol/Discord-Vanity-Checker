@@ -7,6 +7,7 @@
   </kbd>
 </div>  
 ---------------------------------------
+
 ### ⚙️ Installation
 * Requires: `Python 3.8+` & pip
 * Optional: Add Fresh Proxies to "proxies.txt" 
