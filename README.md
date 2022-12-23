@@ -6,7 +6,7 @@
   </a>
   </kbd>
 </div>  
----------------------------------------
+
 
 ### ⚙️ Installation
 * Requires: `Python 3.8+` & pip
