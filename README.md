@@ -16,6 +16,7 @@
 ### 🔥 Features
 * Fast Speeds
 * Proxy Support
+* Supports token & non-token.
 
 ### ♥ Readme Credits
 ~ Readme Credits - @imvast
